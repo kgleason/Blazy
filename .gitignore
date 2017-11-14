@@ -69,6 +69,5 @@ localconfig.py
 lib64
 pyvenv.cfg
 tmp
-FULFILLMENT.TXT
 *.ignoretxt
 *.tar.gz
